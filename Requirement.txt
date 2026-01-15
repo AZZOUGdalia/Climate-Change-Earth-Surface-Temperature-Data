@@ -1,0 +1,11 @@
+# --- Manipulation de données ---
+pandas
+numpy
+
+# --- Visualisation ---
+matplotlib
+seaborn
+
+# --- Machine Learning ---
+scikit-learn
+
